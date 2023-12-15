@@ -21,6 +21,12 @@ const testimonials = [
     title: "Movie Director",
     description: "I use this daily for generating new ideas!",
   },
+  {
+    name: "Beth",
+    avatar: "A",
+    title: "Project Manager",
+    description: "Organizing my thoughts has never been easier!",
+  },
 ];
 
 export const LandingContent = () => {

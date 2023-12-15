@@ -29,7 +29,7 @@ export const LandingHero = () => {
           />
         </div>
       </div>
-      <div className="text-sm md:text-xl font-light text-zinc-400 text-[#FFFFFF]">
+      <div className="text-sm md:text-xl font-light text-white-400 text-[#FFFFFF]">
         Create content 10x faster utilizing Seals AI.
       </div>
       <div>
@@ -39,7 +39,7 @@ export const LandingHero = () => {
           </Button>
         </Link>
       </div>
-      <div className="text-zinc-400 text-xs md:text-sm font-normal text-[#FFFFFF]">
+      <div className="text-white-400 text-xs md:text-sm font-normal text-[#FFFFFF]">
         No credit card required!
       </div>
     </div>

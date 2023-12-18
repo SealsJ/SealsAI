@@ -23,13 +23,11 @@ A Full Stack SaaS Product that allows users to generate unlimited responses with
 
 ## Features
 - General AI Chatbot
-- Image Prompt Generation
+- Image Prompt Generation (With ability to download images!)
 - Video Prompt Generation
 - Music Prompt Generation
 - Code Assistant Chatbot
-
-- Free 20 Generations with Stripe Integration for a simulated SaaS Subscription Model to receive unlimited generations!
-- Ability to download any of the generations to local PC!
+- Free 20 Generations (With Stripe Integration for a simulated SaaS Subscription Model to receive unlimited generations!)
 
 ## Screenshots
 <details>
@@ -60,7 +58,7 @@ A Full Stack SaaS Product that allows users to generate unlimited responses with
 <br>
 
 ## Disclaimers
-- This Project's APIs are personally Funded by me with a hard rate limit for Open AI / Replicate AI APIs. If you received a "Something went wrong error" towards the end of the month, these rate limits have probably been reached.
+- This Project's APIs are personally funded by me with a hard rate limit for Open AI / Replicate AI APIs. If you received a "Something went wrong error" towards the end of the month, these rate limits have probably been reached.
 - Video and Music Generation require a lot of resources to generate and sometimes fallback on Vercel Deployment.
 
 ### Get in Touch

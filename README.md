@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width=100% src="https://imgur.com/a/ZZXhDh2.png" alt="Seals AI Banner">
+  <img width=100% src="https://imgur.com/a/ZZXhDh2" alt="Seals AI Banner">
 </h1>
 
 <h4 align="center"> An AI Generation SaaS Product Leveraging the Power of Open and Replicate AI.</h4>
@@ -53,9 +53,9 @@ A Full Stack SaaS Product that allows users to generate unlimited responses with
 <details>
 <summary> <b>Click to view GIFs</b> </summary>
 <br>
-<b>Video Generation:</b>
+<b>Video Generation (These can get kind of scary depending on prompt lol):</b>
 <br>
-<img src="https://imgur.com/a/BLWXco9" alt="/video gif"/>
+<img src="https://imgur.com/a/BLWXco9" alt="video gif"/>
 </details>
 <br>
 

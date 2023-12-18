@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width=100% src="https://imgur.com/a/ZZXhDh2" alt="Seals AI Banner">
+  <img width=100% src="https://imgur.com/zCOlH2M.png" alt="Seals AI Banner">
 </h1>
 
 <h4 align="center"> An AI Generation SaaS Product Leveraging the Power of Open and Replicate AI.</h4>

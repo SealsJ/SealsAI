@@ -55,7 +55,7 @@ A Full Stack SaaS Product that allows users to generate unlimited responses with
 <br>
 <b>Video Generation (These can get kind of scary depending on prompt lol):</b>
 <br>
-<img src="https://imgur.com/a/BLWXco9" alt="video gif"/>
+<img src="https://imgur.com/a/BLWXco9](https://github.com/SealsJ/SealsAI/assets/106201853/16afe59b-229f-4e72-bac7-0419ae34b05a" alt="video gif"/>
 </details>
 <br>
 
